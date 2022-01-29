@@ -1,0 +1,66 @@
+li > a {
+	color: burlywood;
+}
+a {
+	color: darkslategrey;
+}
+nav > ul > li > a {
+	color: green;
+}
+a {
+	color: red;
+}
+h1 {
+	color: purple;
+}
+
+.main {
+	color: gold;
+}
+.block1 {
+	color: gray;
+}
+p {
+	color: dodgerblue;
+}
+p.text {
+	color: saddlebrown;
+}
+.text {
+	color: brown;
+}
+
+mark {
+	color: whitesmoke;
+}
+mark {
+	color: yellow;
+}
+mark.text {
+	color: red;
+}
+h3 {
+	color: lawngreen;
+}
+#roundrice {
+	color: blue;
+}
+h2 {
+	color: black;
+}
+p {
+	color: navy;
+}
+p.paragraph {
+	color: white;
+}
+p.text {
+	color: orange;
+}
+footer.footer {
+	color: purple;
+}
+p,
+h1 {
+	color: greenyellow;
+}
